@@ -1,0 +1,13 @@
+{
+  "source_system": "P1",
+  "record_id": "EVD-2569-001",
+  "title": "Course Review Meeting Minutes",
+  "academic_year": "2569/1",
+  "related_plo_clo": ["PLO2"],
+  "aun_criterion": [2, 3, 8],
+  "file_url_or_reference": "https://example.edu/evidence/EVD-2569-001",
+  "evidence_status": "Reviewed",
+  "owner": "Example Team",
+  "created_at": "2026-06-30T00:00:00+07:00",
+  "updated_at": "2026-06-30T00:00:00+07:00"
+}
